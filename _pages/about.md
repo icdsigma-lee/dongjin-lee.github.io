@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='ae.hanyang.ac.kr'>Hanyang University </a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='www.https//ae.hanyang.ac.kr'>Hanyang University </a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
