@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='ae.hanyang.ac.kr'>Hanyang University </a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Seoul, 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
